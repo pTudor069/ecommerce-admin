@@ -12,6 +12,7 @@
     "@auth/mongodb-adapter": "^3.1.0",
     "autoprefixer": "^10.4.19",
     "mongodb": "^6.6.2",
+    "multiparty": "^4.2.3",
     "next": "14.2.3",
     "next-auth": "^4.24.7",
     "postcss": "^8.4.38",
